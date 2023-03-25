@@ -163,7 +163,7 @@ competitions.
 
 ```bash
 
- # YouTube video link:- 
+ # Video link:- 
 
 
 ```
