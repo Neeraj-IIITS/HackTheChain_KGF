@@ -1,12 +1,5 @@
 # HackTheChain_KGF
 
-## Project Theme
-
-```bash
-. ( Agriculture)
-
-```
-
 ## Project Title
 
 ```bash
